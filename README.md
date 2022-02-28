@@ -14,4 +14,4 @@ https://giodel15.github.io/Horiseon-marketing/
 
 # Screenshot of Application
 
-![](assests/images/screenshot-1.jpg)
+![](assets/images/Screenshot-1.JPG)
