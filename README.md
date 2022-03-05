@@ -1,18 +1,19 @@
-#Horiseon Marketing
+# Horiseon Marketing
 
-##Purpose
+## Purpose
 Brand managmenet website that helps with Search Engine Optimization.
 
-##Built With
-*Html
-*CSS
+## Built With
+* Html
+* CSS
 
-##Website
+## Website
 https://giodel15.github.io/Horiseon-marketing/
 
-Contribution
+# Screenshot of Application
 
 Screenshot of Application
 
 
 hi
+![](assets/images/Screenshot-1.JPG)
